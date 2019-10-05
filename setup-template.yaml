@@ -8,7 +8,7 @@ Resources:
     Properties:
       Name: /build/SAM_S3_BUCKET
       Type: String
-      Value: cookie-shop-serverless-build-bucket-kai_armer
+      Value: cookie-shop-serverless-build-bucket-kai-armer
 
   CodebuildOutputS3Bucket:
     Type: AWS::S3::Bucket
