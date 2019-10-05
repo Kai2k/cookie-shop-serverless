@@ -1,5 +1,6 @@
 cookie-shop-serverless
-https://codebuild.eu-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNEthYml1Qm1pOWNsYytsUFlGY0N4blVpUFNGbkM5YktnRE9JbU1ZQUdTTlg2N0RCdTcxUVEzTTI1T0FPNG9PcFJxQ1dVQ1VPbThtVm5EZkMzMmg0NzZNPSIsIml2UGFyYW1ldGVyU3BlYyI6InIwRUtvZG5qOUc1RkxtMUsiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master
+[![Build Status](https://codebuild.eu-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNEthYml1Qm1pOWNsYytsUFlGY0N4blVpUFNGbkM5YktnRE9JbU1ZQUdTTlg2N0RCdTcxUVEzTTI1T0FPNG9PcFJxQ1dVQ1VPbThtVm5EZkMzMmg0NzZNPSIsIml2UGFyYW1ldGVyU3BlYyI6InIwRUtvZG5qOUc1RkxtMUsiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)](https://codebuild.eu-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNEthYml1Qm1pOWNsYytsUFlGY0N4blVpUFNGbkM5YktnRE9JbU1ZQUdTTlg2N0RCdTcxUVEzTTI1T0FPNG9PcFJxQ1dVQ1VPbThtVm5EZkMzMmg0NzZNPSIsIml2UGFyYW1ldGVyU3BlYyI6InIwRUtvZG5qOUc1RkxtMUsiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+<br />
 ======================
 
 This is an example project for Serverless in AWS
