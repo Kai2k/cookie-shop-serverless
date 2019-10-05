@@ -3,7 +3,7 @@ cookie-shop-serverless<br/>
 <br />
 ======================
 
-This is an example project for Serverless in AWS
+This is an example project for Serverless in AWS.
 
 We will be using SAM (https://github.com/awslabs/serverless-application-model)
 
